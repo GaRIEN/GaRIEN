@@ -18,7 +18,40 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GaRIEN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <style>
+    .container {
+      background-color: #141321;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      font-family: Poppins, Arial, Helvetica, sans-serif;
+      padding: 20px;
+      width: 600px;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      margin: 0;
+    }
+    .container h3 {
+      font-size: 19px;
+      margin-bottom: 5px;
+      font-weight: 500;
+      font-style: oblique;
+      color: #a9fef7;
+    }
+    .container p {
+      color: #fe428e;
+      font-style: italic;
+      padding: 5px;
+      text-align: right;
+      display: block;
+    }
+  </style>
+    <div class="container">
+      <h3>
+        “Always write your code as if the person who is going to maintain it
+        were a dangerous psychopath who knows who you are and where you live”
+      </h3>
+      <p>- Jonathan Sachs</p>
+    </div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GaRIEN&icon=2&color=4)](https://visitcount.itsvg.in)
