@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+🚀 Hello. I am Ángel Gabriel Huamán Cuchula, graduated from the Systems Engineering degree. Currently, I am immersed in learning modern technologies such as Angular and React, exploring the fascinating world of web development. Passionate about creating and solving technological challenges, I constantly seek to expand my skills and contribute to the development of innovative solutions.
 
 ## Connect with Me
 
