@@ -18,4 +18,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=GaRIEN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-[![](https://visitcount.itsvg.in/api?id=GaRIEN&icon=2&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GaRIEN&icon=2&color=7)](https://visitcount.itsvg.in)
