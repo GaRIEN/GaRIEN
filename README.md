@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hello. I am Ángel Gabriel Huamán Cuchula, graduated from the Systems Engineering degree. Currently, I am immersed in learning modern technologies such as Angular and React, exploring the fascinating world of web development. Passionate about creating and solving technological challenges, I constantly seek to expand my skills and contribute to the development of innovative solutions.
+🚀 Hello. I am Angel Gabriel Huaman Cuchula, graduated from the Systems Engineering degree. Currently, I am immersed in learning new programming languages ​​such as Angular and React, exploring the fascinating world of web development. Passionate about creating and solving technological challenges, I constantly seek to expand my skills and contribute to the development of innovative solutions.
 
 ## Connect with Me
 
