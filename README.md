@@ -22,9 +22,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GaRIEN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GaRIEN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-[![](https://visitcount.itsvg.in/api?id=GaRIEN&icon=2&color=7)](https://visitcount.itsvg.in)
+![GitHub Contribution Graph](https://github.com/GaRIEN/GaRIEN/blob/main/github-metrics.svg)
+
