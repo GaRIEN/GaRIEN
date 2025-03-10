@@ -25,5 +25,9 @@
 ### 🔝 Top Contributed Repo
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=GaRIEN&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
 ![GitHub Contribution Graph](https://github.com/GaRIEN/GaRIEN/blob/main/github-metrics.svg)
+
 
