@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/gabrielhuaman683/"><img alt="Instagram" title="Angel Gabriel Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
 <hr>
-<h3>Lenguages y herramientas</h3>
+<h3>Languages and Tools</h3>
 
 <div align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
