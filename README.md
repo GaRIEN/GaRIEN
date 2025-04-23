@@ -3,7 +3,7 @@
 
 ![Welcome](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome&animation=fadeIn&gradientColors=B993D6,8CA6DB)
 # 💫 About Me:
-🚀 Hello. I am Angel Gabriel Huaman Cuchula, graduated from the Systems Engineering degree. Currently, I am immersed in learning new programming languages ​​such as Angular and React, exploring the fascinating world of web development. Passionate about creating and solving technological challenges, I constantly seek to expand my skills and contribute to the development of innovative solutions.
+🚀 Hello. I am Angel Gabriel Huaman , graduated from the Systems Engineering degree. Currently, I am immersed in learning new programming languages ​​such as Angular and React, exploring the fascinating world of web development. Passionate about creating and solving technological challenges, I constantly seek to expand my skills and contribute to the development of innovative solutions.
 
 ## Connect with Me
 
