@@ -61,9 +61,11 @@
   <p>
     <a align="left">
       <p>
-        <img align="left" 
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=GaRIEN&show_icons=true&theme=dark&locale=es&hide=jupyter%20notebook,html,powershell,visual%20basic%20.net,tsql,mdx,&langs_count=8" alt="fernandojosemoran" />
-      </p>
+    <img align="left"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=GaRIEN&show_icons=true&theme=dark&locale=es&hide=jupyter%20notebook,html,powershell,visual%20basic%20.net,tsql,mdx,&langs_count=8"
+        alt="GaRIEN" />
+</p>
+
     </a>
     <a align="right">
       <p>&nbsp;
