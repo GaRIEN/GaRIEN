@@ -64,9 +64,7 @@
 
     </a>
     <a align="right">
-      <p>&nbsp;
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=GaRIEN&show_icons=true&theme=dark&locale=es" alt="fernandojosemoran" />
-      </p>
+      <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GaRIEN&show_icons=true&theme=dark&locale=es&hide=jupyter%20notebook,html,powershell,visual%20basic%20.net,tsql,mdx,&langs_count=8" alt="fernandojosemoran" /> </p>
     </a>  
   </p>
 </div>
